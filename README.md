@@ -18,4 +18,4 @@ Požadavky:
   ✔
 
 
-* Weby, které jsem dělal z části pomocí Bootstrapu: https://www.vinoteka-liberec.cz/, https://pixelgon.cz/
+* Weby, které jsem dělal z části pomocí Bootstrapu: https://www.vinoteka-liberec.cz/, https://pixelgon.cz/, https://emotions.pixelgon.cz/
